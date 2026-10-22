@@ -5,12 +5,12 @@
     "subcategory_id": "yacht",
     "i18n": {
       "zh": {
-        "title": "海岚 42 尺飞桥游艇",
-        "description": "海岚 42 尺飞桥游艇。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "海岚 H42 飞桥游艇",
+        "description": "42 英尺飞桥游艇，采用玻璃钢船体与柴油动力，适合近海巡航和休闲运营，可按目标市场配置出口方案。"
       },
       "en": {
-        "title": "Hailan 42 Flybridge Yacht",
-        "description": "Hailan 42 Flybridge Yacht. Specifications and export terms can be discussed for your project."
+        "title": "Hailan H42 Flybridge Yacht",
+        "description": "A 42 ft flybridge yacht with an FRP hull and diesel propulsion, suited to coastal cruising and leisure operations, with export configurations adapted to the destination market."
       }
     },
     "media": [
@@ -35,7 +35,7 @@
       "id": "s1",
       "name": {
         "zh": "海岚船艇制造有限公司",
-        "en": "Hailan Marine Manufacturing"
+        "en": "Hailan Boat Manufacturing"
       },
       "country": "China",
       "verified": true,
@@ -63,12 +63,12 @@
     "subcategory_id": "fishing",
     "i18n": {
       "zh": {
-        "title": "远航 12m 铝合金钓鱼艇",
-        "description": "远航 12m 铝合金钓鱼艇。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "远航 12 米铝合金钓鱼艇",
+        "description": "12 米铝合金钓鱼艇，开放式甲板与柴油动力兼顾近海垂钓和租赁运营，可按项目调整布局与配置。"
       },
       "en": {
-        "title": "Voyager 12m Aluminum Fishing Boat",
-        "description": "Voyager 12m Aluminum Fishing Boat. Specifications and export terms can be discussed for your project."
+        "title": "Voyager 12M Aluminum Fishing Boat",
+        "description": "A 12 m aluminum fishing boat with an open deck and diesel propulsion for coastal fishing and rental operations, with layout and equipment options available for each project."
       }
     },
     "media": [
@@ -92,8 +92,8 @@
     "supplier": {
       "id": "s2",
       "name": {
-        "zh": "远航海洋装备有限公司",
-        "en": "Voyager Ocean Equipment"
+        "zh": "远航船艇装备有限公司",
+        "en": "Voyager Boat Equipment"
       },
       "country": "China",
       "verified": true,
@@ -118,15 +118,15 @@
   {
     "id": "p03",
     "category_id": "boats",
-    "subcategory_id": "yacht",
+    "subcategory_id": "motorboat",
     "i18n": {
       "zh": {
-        "title": "清源 10m 纯电动观光艇",
-        "description": "清源 10m 纯电动观光艇。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "清源 E10 电动摩托艇",
+        "description": "10 米纯电动摩托艇，低噪零排放，适合景区、内湖和城市水域接驳与观光运营。"
       },
       "en": {
-        "title": "Qingyuan 10m Electric Cruiser",
-        "description": "Qingyuan 10m Electric Cruiser. Specifications and export terms can be discussed for your project."
+        "title": "Qingyuan E10 Electric Motorboat",
+        "description": "A 10 m all-electric motorboat with low noise and zero emissions, designed for scenic areas, inland lakes and urban water transport."
       }
     },
     "media": [
@@ -134,7 +134,7 @@
       "assets/media/boats-detail.webp"
     ],
     "parameters": {
-      "boat_type": "yacht",
+      "boat_type": "motorboat",
       "material": "FRP",
       "length": 10,
       "power": "electric",
@@ -150,8 +150,8 @@
     "supplier": {
       "id": "s3",
       "name": {
-        "zh": "蓝湾船舶技术有限公司",
-        "en": "Bluebay Marine Technology"
+        "zh": "蓝湾船艇技术有限公司",
+        "en": "Bluebay Boat Technology"
       },
       "country": "China",
       "verified": true,
@@ -179,12 +179,12 @@
     "subcategory_id": "sportfishing",
     "i18n": {
       "zh": {
-        "title": "蓝湾 38 尺游钓艇",
-        "description": "蓝湾 38 尺游钓艇。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "蓝湾 38 英尺游钓艇",
+        "description": "38 英尺混合动力游钓艇，兼顾巡航与专业垂钓，可定制甲板布局、鱼探及钓具配置。"
       },
       "en": {
-        "title": "Bluebay 38 Sportfishing Yacht",
-        "description": "Bluebay 38 Sportfishing Yacht. Specifications and export terms can be discussed for your project."
+        "title": "Bluebay 38 Sportfishing Boat",
+        "description": "A 38 ft hybrid sportfishing boat for cruising and serious fishing, with customizable deck layout, sonar and tackle arrangements."
       }
     },
     "media": [
@@ -208,8 +208,8 @@
     "supplier": {
       "id": "s4",
       "name": {
-        "zh": "海固海事服务有限公司",
-        "en": "SeaGuard Marine Services"
+        "zh": "海固船艇服务有限公司",
+        "en": "SeaGuard Boat Services"
       },
       "country": "China",
       "verified": true,
@@ -237,12 +237,12 @@
     "subcategory_id": "navigation",
     "i18n": {
       "zh": {
-        "title": "N7 多功能船用导航仪",
-        "description": "N7 多功能船用导航仪。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "N7 船用多功能导航显示器",
+        "description": "面向船艇驾驶台的多功能导航显示设备，支持航线、海图与船况信息集中显示。"
       },
       "en": {
-        "title": "N7 Marine Navigation Display",
-        "description": "N7 Marine Navigation Display. Specifications and export terms can be discussed for your project."
+        "title": "N7 Multifunction Marine Display",
+        "description": "A multifunction bridge display that consolidates route, chart and vessel status information."
       }
     },
     "media": [
@@ -265,7 +265,7 @@
       "id": "s1",
       "name": {
         "zh": "海岚船艇制造有限公司",
-        "en": "Hailan Marine Manufacturing"
+        "en": "Hailan Boat Manufacturing"
       },
       "country": "China",
       "verified": true,
@@ -294,11 +294,11 @@
     "i18n": {
       "zh": {
         "title": "M280 船用柴油动力系统",
-        "description": "M280 船用柴油动力系统。可按项目需求提供规格确认与出口贸易方案。"
+        "description": "面向中小型船艇的柴油动力系统，配套提供安装接口与出口技术支持。"
       },
       "en": {
         "title": "M280 Marine Diesel Engine",
-        "description": "M280 Marine Diesel Engine. Specifications and export terms can be discussed for your project."
+        "description": "A diesel propulsion system for small and mid-size boats, supplied with installation interfaces and export technical support."
       }
     },
     "media": [
@@ -320,8 +320,8 @@
     "supplier": {
       "id": "s2",
       "name": {
-        "zh": "远航海洋装备有限公司",
-        "en": "Voyager Ocean Equipment"
+        "zh": "远航船艇装备有限公司",
+        "en": "Voyager Boat Equipment"
       },
       "country": "China",
       "verified": true,
@@ -349,12 +349,12 @@
     "subcategory_id": "deck",
     "i18n": {
       "zh": {
-        "title": "不锈钢电动锚机 1500W",
-        "description": "不锈钢电动锚机 1500W。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "W1500 不锈钢电动锚机",
+        "description": "1500W 不锈钢电动锚机，适用于游艇与钓鱼艇甲板，可提供不同链轮和电压配置。"
       },
       "en": {
-        "title": "1500W Stainless Electric Windlass",
-        "description": "1500W Stainless Electric Windlass. Specifications and export terms can be discussed for your project."
+        "title": "W1500 Stainless Electric Windlass",
+        "description": "A 1500 W stainless electric windlass for yacht and fishing-boat decks, available with different chainwheel and voltage configurations."
       }
     },
     "media": [
@@ -376,8 +376,8 @@
     "supplier": {
       "id": "s3",
       "name": {
-        "zh": "蓝湾船舶技术有限公司",
-        "en": "Bluebay Marine Technology"
+        "zh": "蓝湾船艇技术有限公司",
+        "en": "Bluebay Boat Technology"
       },
       "country": "China",
       "verified": true,
@@ -405,12 +405,12 @@
     "subcategory_id": "navigation",
     "i18n": {
       "zh": {
-        "title": "AIS 船舶自动识别系统",
-        "description": "AIS 船舶自动识别系统。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "AIS-B 船舶自动识别终端",
+        "description": "Class B AIS 船舶识别终端，用于船位与航行状态广播，适合休闲和中小型商用船艇。"
       },
       "en": {
-        "title": "Class B AIS Transponder",
-        "description": "Class B AIS Transponder. Specifications and export terms can be discussed for your project."
+        "title": "AIS-B Marine Transponder",
+        "description": "A Class B AIS transponder for broadcasting vessel position and navigation status, suited to recreational and small commercial craft."
       }
     },
     "media": [
@@ -432,8 +432,8 @@
     "supplier": {
       "id": "s4",
       "name": {
-        "zh": "海固海事服务有限公司",
-        "en": "SeaGuard Marine Services"
+        "zh": "海固船艇服务有限公司",
+        "en": "SeaGuard Boat Services"
       },
       "country": "China",
       "verified": true,
@@ -462,11 +462,11 @@
     "i18n": {
       "zh": {
         "title": "蓝盾低 VOC 无锡防污涂料",
-        "description": "蓝盾低 VOC 无锡防污涂料。可按项目需求提供规格确认与出口贸易方案。"
+        "description": "低 VOC 无锡防污体系，适用于玻璃钢和金属船体，提供目标市场所需的安全与运输资料。"
       },
       "en": {
-        "title": "BlueShield Low-VOC Antifouling",
-        "description": "BlueShield Low-VOC Antifouling. Specifications and export terms can be discussed for your project."
+        "title": "BlueShield Low-VOC Tin-Free Antifouling",
+        "description": "A low-VOC, tin-free antifouling system for FRP and metal hulls, supported by the safety and transport documents required for the destination market."
       }
     },
     "media": [
@@ -492,7 +492,7 @@
       "id": "s1",
       "name": {
         "zh": "海岚船艇制造有限公司",
-        "en": "Hailan Marine Manufacturing"
+        "en": "Hailan Boat Manufacturing"
       },
       "country": "China",
       "verified": true,
@@ -521,11 +521,11 @@
     "i18n": {
       "zh": {
         "title": "海固环氧防腐底漆",
-        "description": "海固环氧防腐底漆。可按项目需求提供规格确认与出口贸易方案。"
+        "description": "双组分环氧防腐底漆，适用于船体、甲板与金属结构的底层防护。"
       },
       "en": {
         "title": "SeaGuard Epoxy Marine Primer",
-        "description": "SeaGuard Epoxy Marine Primer. Specifications and export terms can be discussed for your project."
+        "description": "A two-component epoxy primer for corrosion protection of hulls, decks and metal structures."
       }
     },
     "media": [
@@ -550,8 +550,8 @@
     "supplier": {
       "id": "s2",
       "name": {
-        "zh": "远航海洋装备有限公司",
-        "en": "Voyager Ocean Equipment"
+        "zh": "远航船艇装备有限公司",
+        "en": "Voyager Boat Equipment"
       },
       "country": "China",
       "verified": true,
@@ -579,12 +579,12 @@
     "subcategory_id": "care",
     "i18n": {
       "zh": {
-        "title": "游艇甲板养护清洁剂",
-        "description": "游艇甲板养护清洁剂。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "船艇甲板清洁养护剂",
+        "description": "用于玻璃钢、金属和复合甲板表面的日常清洁与养护，适合游艇和钓鱼艇使用。"
       },
       "en": {
         "title": "Yacht Deck Care Cleaner",
-        "description": "Yacht Deck Care Cleaner. Specifications and export terms can be discussed for your project."
+        "description": "A routine cleaner and protectant for FRP, metal and composite decks on yachts and fishing boats."
       }
     },
     "media": [
@@ -609,8 +609,8 @@
     "supplier": {
       "id": "s3",
       "name": {
-        "zh": "蓝湾船舶技术有限公司",
-        "en": "Bluebay Marine Technology"
+        "zh": "蓝湾船艇技术有限公司",
+        "en": "Bluebay Boat Technology"
       },
       "country": "China",
       "verified": true,
@@ -638,12 +638,12 @@
     "subcategory_id": "antifouling",
     "i18n": {
       "zh": {
-        "title": "防污涂层样例 · 合规待补全",
-        "description": "防污涂层样例 · 合规待补全。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "防污涂料样例（资料待完善）",
+        "description": "用于展示防污涂料详情的待完善样例，安全与运输资料尚未齐全，交易前需向供应商核实。"
       },
       "en": {
-        "title": "Antifouling Sample · Compliance Pending",
-        "description": "Antifouling Sample · Compliance Pending. Specifications and export terms can be discussed for your project."
+        "title": "Antifouling Sample (Documents Pending)",
+        "description": "A sample listing with incomplete safety and transport documentation. Confirm all documents with the supplier before purchase."
       }
     },
     "media": [
@@ -664,8 +664,8 @@
     "supplier": {
       "id": "s4",
       "name": {
-        "zh": "海固海事服务有限公司",
-        "en": "SeaGuard Marine Services"
+        "zh": "海固船艇服务有限公司",
+        "en": "SeaGuard Boat Services"
       },
       "country": "China",
       "verified": true,
@@ -690,15 +690,15 @@
   {
     "id": "p13",
     "category_id": "services",
-    "subcategory_id": "inspection",
+    "subcategory_id": "consultation",
     "i18n": {
       "zh": {
-        "title": "船舶交付前检验服务",
-        "description": "船舶交付前检验服务。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "船艇选型与配置咨询",
+        "description": "根据用途、航线、载员和目标市场，协助确认船型、动力、甲板布局与设备配置。"
       },
       "en": {
-        "title": "Pre-delivery Vessel Inspection",
-        "description": "Pre-delivery Vessel Inspection. Specifications and export terms can be discussed for your project."
+        "title": "Boat Specification & Configuration Advisory",
+        "description": "Support in defining boat type, propulsion, deck layout and equipment for the intended use, route, capacity and destination market."
       }
     },
     "media": [
@@ -706,11 +706,11 @@
       "assets/media/services-detail.webp"
     ],
     "parameters": {
-      "service_type": "inspection",
+      "service_type": "consultation",
       "region": "asia",
       "content": {
-        "zh": "船体、动力及安全系统现场检验",
-        "en": "On-site hull, propulsion and safety inspection"
+        "zh": "船型匹配、动力与设备配置建议",
+        "en": "Boat selection with propulsion and equipment recommendations"
       }
     },
     "certifications": [
@@ -724,7 +724,7 @@
       "id": "s1",
       "name": {
         "zh": "海岚船艇制造有限公司",
-        "en": "Hailan Marine Manufacturing"
+        "en": "Hailan Boat Manufacturing"
       },
       "country": "China",
       "verified": true,
@@ -749,15 +749,15 @@
   {
     "id": "p14",
     "category_id": "services",
-    "subcategory_id": "logistics",
+    "subcategory_id": "delivery",
     "i18n": {
       "zh": {
-        "title": "游艇跨境运输与清关",
-        "description": "游艇跨境运输与清关。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "整船出口运输与清关",
+        "description": "提供整船吊装、海运、目的港清关及交付协调，覆盖游艇、钓鱼艇和摩托艇出口项目。"
       },
       "en": {
-        "title": "Cross-border Yacht Shipping",
-        "description": "Cross-border Yacht Shipping. Specifications and export terms can be discussed for your project."
+        "title": "Boat Export Shipping & Customs",
+        "description": "Lifting, sea freight, destination customs clearance and delivery coordination for yacht, fishing-boat and motorboat exports."
       }
     },
     "media": [
@@ -765,11 +765,11 @@
       "assets/media/services-detail.webp"
     ],
     "parameters": {
-      "service_type": "logistics",
+      "service_type": "delivery",
       "region": "global",
       "content": {
-        "zh": "吊装、海运及目的港清关协调",
-        "en": "Lifting, sea transport and port customs coordination"
+        "zh": "整船吊装、海运与目的港交付协调",
+        "en": "Boat lifting, sea freight and destination delivery coordination"
       }
     },
     "certifications": [
@@ -782,8 +782,8 @@
     "supplier": {
       "id": "s2",
       "name": {
-        "zh": "远航海洋装备有限公司",
-        "en": "Voyager Ocean Equipment"
+        "zh": "远航船艇装备有限公司",
+        "en": "Voyager Boat Equipment"
       },
       "country": "China",
       "verified": true,
@@ -808,15 +808,15 @@
   {
     "id": "p15",
     "category_id": "services",
-    "subcategory_id": "design",
+    "subcategory_id": "delivery",
     "i18n": {
       "zh": {
-        "title": "船舶结构设计与技术咨询",
-        "description": "船舶结构设计与技术咨询。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "交付前检验与试航",
+        "description": "交付前检查船体、动力与设备状态，并配合安排试航、验收和出口资料交接。"
       },
       "en": {
-        "title": "Marine Structural Design",
-        "description": "Marine Structural Design. Specifications and export terms can be discussed for your project."
+        "title": "Pre-delivery Inspection & Sea Trial",
+        "description": "Pre-delivery checks of hull, propulsion and equipment, coordinated with sea trials, acceptance and export documentation."
       }
     },
     "media": [
@@ -824,11 +824,11 @@
       "assets/media/services-detail.webp"
     ],
     "parameters": {
-      "service_type": "design",
+      "service_type": "delivery",
       "region": "global",
       "content": {
-        "zh": "结构方案、工程图纸及技术咨询",
-        "en": "Structural concepts, engineering drawings and consulting"
+        "zh": "船体、动力与设备检查，及试航验收协调",
+        "en": "Hull, propulsion and equipment checks, with trial and acceptance coordination"
       }
     },
     "certifications": [
@@ -841,8 +841,8 @@
     "supplier": {
       "id": "s3",
       "name": {
-        "zh": "蓝湾船舶技术有限公司",
-        "en": "Bluebay Marine Technology"
+        "zh": "蓝湾船艇技术有限公司",
+        "en": "Bluebay Boat Technology"
       },
       "country": "China",
       "verified": true,
@@ -867,15 +867,15 @@
   {
     "id": "p16",
     "category_id": "services",
-    "subcategory_id": "inspection",
+    "subcategory_id": "afterSales",
     "i18n": {
       "zh": {
-        "title": "欧洲目的港验船与交付",
-        "description": "欧洲目的港验船与交付。可按项目需求提供规格确认与出口贸易方案。"
+        "title": "欧洲售后与备件支持",
+        "description": "面向欧洲市场的交付后技术支持、备件供应与维修协调，服务游艇、钓鱼艇和摩托艇项目。"
       },
       "en": {
-        "title": "European Port Survey & Delivery",
-        "description": "European Port Survey & Delivery. Specifications and export terms can be discussed for your project."
+        "title": "European After-Sales & Parts Support",
+        "description": "Post-delivery technical support, parts supply and repair coordination for yachts, fishing boats and motorboats in Europe."
       }
     },
     "media": [
@@ -883,11 +883,11 @@
       "assets/media/services-detail.webp"
     ],
     "parameters": {
-      "service_type": "inspection",
+      "service_type": "afterSales",
       "region": "europe",
       "content": {
-        "zh": "目的港检验及交付协调",
-        "en": "Destination port survey and delivery coordination"
+        "zh": "交付后技术支持、备件供应与维修协调",
+        "en": "Post-delivery technical support, parts supply and repair coordination"
       }
     },
     "certifications": [
@@ -900,8 +900,8 @@
     "supplier": {
       "id": "s4",
       "name": {
-        "zh": "海固海事服务有限公司",
-        "en": "SeaGuard Marine Services"
+        "zh": "海固船艇服务有限公司",
+        "en": "SeaGuard Boat Services"
       },
       "country": "China",
       "verified": true,

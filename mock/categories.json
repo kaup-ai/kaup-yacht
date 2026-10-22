@@ -2,14 +2,21 @@
   {
     "id": "boats",
     "name": {
-      "zh": "船艇",
-      "en": "Boats & yachts"
+      "zh": "整船",
+      "en": "Boats"
     },
     "description": {
-      "zh": "游艇、钓鱼艇与游钓艇",
-      "en": "Yachts, fishing and sportfishing boats"
+      "zh": "摩托艇、游艇、钓鱼艇与游钓艇",
+      "en": "Motorboats, yachts, fishing and sportfishing boats"
     },
     "subcategories": [
+      {
+        "id": "motorboat",
+        "name": {
+          "zh": "摩托艇",
+          "en": "Motorboats"
+        }
+      },
       {
         "id": "yacht",
         "name": {
@@ -37,10 +44,17 @@
         "key": "boat_type",
         "label": {
           "zh": "艇型",
-          "en": "Vessel type"
+          "en": "Boat type"
         },
         "type": "enum",
         "options": [
+          {
+            "value": "motorboat",
+            "label": {
+              "zh": "摩托艇",
+              "en": "Motorboat"
+            }
+          },
           {
             "value": "yacht",
             "label": {
@@ -154,7 +168,7 @@
   {
     "id": "equipment",
     "name": {
-      "zh": "配件设备",
+      "zh": "配件与设备",
       "en": "Parts & equipment"
     },
     "description": {
@@ -187,9 +201,9 @@
     "fields": [
       {
         "key": "compatible",
-        "label": {
-          "zh": "适配船型",
-          "en": "Compatible vessel"
+      "label": {
+        "zh": "适配船型",
+        "en": "Compatible boat type"
         },
         "type": "enum",
         "options": [
@@ -204,14 +218,14 @@
             "value": "commercial",
             "label": {
               "zh": "商船",
-              "en": "Commercial"
+              "en": "Commercial craft"
             }
           },
           {
             "value": "all",
             "label": {
-              "zh": "通用",
-              "en": "Universal"
+              "zh": "全船型",
+              "en": "All boats"
             }
           }
         ],
@@ -242,12 +256,12 @@
   {
     "id": "coatings",
     "name": {
-      "zh": "涂装养护",
+      "zh": "涂装与养护",
       "en": "Coatings & care"
     },
     "description": {
-      "zh": "专业船用涂装与合规方案",
-      "en": "Marine coatings and compliance solutions"
+      "zh": "船体防污、防腐与日常养护",
+      "en": "Antifouling, corrosion protection and boat care"
     },
     "subcategories": [
       {
@@ -368,33 +382,33 @@
   {
     "id": "services",
     "name": {
-      "zh": "衍生服务",
-      "en": "Marine services"
+      "zh": "售前与售后",
+      "en": "Pre-sale & after-sales"
     },
     "description": {
-      "zh": "检验、物流与设计服务",
-      "en": "Inspection, logistics and design"
+      "zh": "选型咨询、交付支持与售后保障",
+      "en": "Specification advice, delivery support and after-sales care"
     },
     "subcategories": [
       {
-        "id": "inspection",
+        "id": "consultation",
         "name": {
-          "zh": "检验认证",
-          "en": "Inspection"
+          "zh": "选型与配置咨询",
+          "en": "Specification & configuration"
         }
       },
       {
-        "id": "logistics",
+        "id": "delivery",
         "name": {
-          "zh": "跨境物流",
-          "en": "Logistics"
+          "zh": "出口交付支持",
+          "en": "Export delivery"
         }
       },
       {
-        "id": "design",
+        "id": "afterSales",
         "name": {
-          "zh": "设计咨询",
-          "en": "Design consulting"
+          "zh": "售后与备件",
+          "en": "After-sales & parts"
         }
       }
     ],
@@ -408,24 +422,24 @@
         "type": "enum",
         "options": [
           {
-            "value": "inspection",
+            "value": "consultation",
             "label": {
-              "zh": "检验认证",
-              "en": "Inspection"
+              "zh": "选型与配置咨询",
+              "en": "Specification & configuration"
             }
           },
           {
-            "value": "logistics",
+            "value": "delivery",
             "label": {
-              "zh": "国际物流",
-              "en": "Logistics"
+              "zh": "出口交付支持",
+              "en": "Export delivery"
             }
           },
           {
-            "value": "design",
+            "value": "afterSales",
             "label": {
-              "zh": "船舶设计",
-              "en": "Marine design"
+              "zh": "售后与备件",
+              "en": "After-sales & parts"
             }
           }
         ],
