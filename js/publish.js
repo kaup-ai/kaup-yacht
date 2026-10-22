@@ -196,7 +196,7 @@
       },
       media: media.length
         ? media
-        : ["assets/media/" + currentCategory + ".png"],
+        : ["assets/media/" + currentCategory + ".webp"],
       parameters:
         currentCategory === "coatings"
           ? {}

@@ -110,7 +110,7 @@ const U = (window.MarineUI = {
   },
   img(p) {
     return (
-      p?.media?.[0] || "assets/media/" + (p?.category_id || "boats") + ".png"
+      p?.media?.[0] || "assets/media/" + (p?.category_id || "boats") + ".webp"
     );
   },
   card(p) {

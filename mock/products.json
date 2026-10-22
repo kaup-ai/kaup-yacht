@@ -14,8 +14,8 @@
       }
     },
     "media": [
-      "assets/media/p01.png",
-      "assets/media/boats-detail.png"
+      "assets/media/p01.webp",
+      "assets/media/boats-detail.webp"
     ],
     "parameters": {
       "boat_type": "yacht",
@@ -72,8 +72,8 @@
       }
     },
     "media": [
-      "assets/media/p02.png",
-      "assets/media/boats-detail.png"
+      "assets/media/p02.webp",
+      "assets/media/boats-detail.webp"
     ],
     "parameters": {
       "boat_type": "fishing",
@@ -130,8 +130,8 @@
       }
     },
     "media": [
-      "assets/media/p03.png",
-      "assets/media/boats-detail.png"
+      "assets/media/p03.webp",
+      "assets/media/boats-detail.webp"
     ],
     "parameters": {
       "boat_type": "yacht",
@@ -188,8 +188,8 @@
       }
     },
     "media": [
-      "assets/media/p04.png",
-      "assets/media/boats-detail.png"
+      "assets/media/p04.webp",
+      "assets/media/boats-detail.webp"
     ],
     "parameters": {
       "boat_type": "sportfishing",
@@ -246,8 +246,8 @@
       }
     },
     "media": [
-      "assets/media/p05.png",
-      "assets/media/equipment-detail.png"
+      "assets/media/p05.webp",
+      "assets/media/equipment-detail.webp"
     ],
     "parameters": {
       "compatible": "all",
@@ -302,8 +302,8 @@
       }
     },
     "media": [
-      "assets/media/p06.png",
-      "assets/media/equipment-detail.png"
+      "assets/media/p06.webp",
+      "assets/media/equipment-detail.webp"
     ],
     "parameters": {
       "compatible": "commercial",
@@ -358,8 +358,8 @@
       }
     },
     "media": [
-      "assets/media/p07.png",
-      "assets/media/equipment-detail.png"
+      "assets/media/p07.webp",
+      "assets/media/equipment-detail.webp"
     ],
     "parameters": {
       "compatible": "yacht",
@@ -414,8 +414,8 @@
       }
     },
     "media": [
-      "assets/media/p08.png",
-      "assets/media/equipment-detail.png"
+      "assets/media/p08.webp",
+      "assets/media/equipment-detail.webp"
     ],
     "parameters": {
       "compatible": "all",
@@ -470,8 +470,8 @@
       }
     },
     "media": [
-      "assets/media/p09.png",
-      "assets/media/coatings-detail.png"
+      "assets/media/p09.webp",
+      "assets/media/coatings-detail.webp"
     ],
     "parameters": {},
     "certifications": [
@@ -529,8 +529,8 @@
       }
     },
     "media": [
-      "assets/media/p10.png",
-      "assets/media/coatings-detail.png"
+      "assets/media/p10.webp",
+      "assets/media/coatings-detail.webp"
     ],
     "parameters": {},
     "certifications": [
@@ -588,8 +588,8 @@
       }
     },
     "media": [
-      "assets/media/p11.png",
-      "assets/media/coatings-detail.png"
+      "assets/media/p11.webp",
+      "assets/media/coatings-detail.webp"
     ],
     "parameters": {},
     "certifications": [
@@ -647,8 +647,8 @@
       }
     },
     "media": [
-      "assets/media/p12.png",
-      "assets/media/coatings-detail.png"
+      "assets/media/p12.webp",
+      "assets/media/coatings-detail.webp"
     ],
     "parameters": {},
     "certifications": [
@@ -702,8 +702,8 @@
       }
     },
     "media": [
-      "assets/media/p13.png",
-      "assets/media/services-detail.png"
+      "assets/media/p13.webp",
+      "assets/media/services-detail.webp"
     ],
     "parameters": {
       "service_type": "inspection",
@@ -761,8 +761,8 @@
       }
     },
     "media": [
-      "assets/media/p14.png",
-      "assets/media/services-detail.png"
+      "assets/media/p14.webp",
+      "assets/media/services-detail.webp"
     ],
     "parameters": {
       "service_type": "logistics",
@@ -820,8 +820,8 @@
       }
     },
     "media": [
-      "assets/media/p15.png",
-      "assets/media/services-detail.png"
+      "assets/media/p15.webp",
+      "assets/media/services-detail.webp"
     ],
     "parameters": {
       "service_type": "design",
@@ -879,8 +879,8 @@
       }
     },
     "media": [
-      "assets/media/p16.png",
-      "assets/media/services-detail.png"
+      "assets/media/p16.webp",
+      "assets/media/services-detail.webp"
     ],
     "parameters": {
       "service_type": "inspection",
