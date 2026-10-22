@@ -6,14 +6,17 @@
     "i18n": {
       "zh": {
         "title": "海岚 42 尺飞桥游艇",
-        "description": "海岚 42 尺飞桥游艇，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "海岚 42 尺飞桥游艇。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "Hailan 42 Flybridge Yacht",
-        "description": "Hailan 42 Flybridge Yacht, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "Hailan 42 Flybridge Yacht. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/boats.svg", "assets/media/boats-detail.svg"],
+    "media": [
+      "assets/media/p01.png",
+      "assets/media/boats-detail.png"
+    ],
     "parameters": {
       "boat_type": "yacht",
       "material": "FRP",
@@ -42,7 +45,11 @@
       "moq": 1,
       "unit": "set",
       "lead_time": 30,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 185000,
       "price_max": 212750,
       "currency": "USD"
@@ -53,22 +60,25 @@
   {
     "id": "p02",
     "category_id": "boats",
-    "subcategory_id": "workboat",
+    "subcategory_id": "fishing",
     "i18n": {
       "zh": {
-        "title": "远航 18m 铝合金工作艇",
-        "description": "远航 18m 铝合金工作艇，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "title": "远航 12m 铝合金钓鱼艇",
+        "description": "远航 12m 铝合金钓鱼艇。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
-        "title": "Voyager 18m Aluminum Workboat",
-        "description": "Voyager 18m Aluminum Workboat, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "title": "Voyager 12m Aluminum Fishing Boat",
+        "description": "Voyager 12m Aluminum Fishing Boat. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/boats.svg", "assets/media/boats-detail.svg"],
+    "media": [
+      "assets/media/p02.png",
+      "assets/media/boats-detail.png"
+    ],
     "parameters": {
-      "boat_type": "workboat",
+      "boat_type": "fishing",
       "material": "Aluminum",
-      "length": 18,
+      "length": 12,
       "power": "diesel",
       "speed": 24
     },
@@ -93,7 +103,11 @@
       "moq": 1,
       "unit": "set",
       "lead_time": 32,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 320000,
       "price_max": 368000,
       "currency": "USD"
@@ -108,14 +122,17 @@
     "i18n": {
       "zh": {
         "title": "清源 10m 纯电动观光艇",
-        "description": "清源 10m 纯电动观光艇，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "清源 10m 纯电动观光艇。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "Qingyuan 10m Electric Cruiser",
-        "description": "Qingyuan 10m Electric Cruiser, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "Qingyuan 10m Electric Cruiser. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/boats.svg", "assets/media/boats-detail.svg"],
+    "media": [
+      "assets/media/p03.png",
+      "assets/media/boats-detail.png"
+    ],
     "parameters": {
       "boat_type": "yacht",
       "material": "FRP",
@@ -144,7 +161,11 @@
       "moq": 1,
       "unit": "set",
       "lead_time": 34,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 95000,
       "price_max": 109250,
       "currency": "USD"
@@ -155,20 +176,23 @@
   {
     "id": "p04",
     "category_id": "boats",
-    "subcategory_id": "sailboat",
+    "subcategory_id": "sportfishing",
     "i18n": {
       "zh": {
-        "title": "蓝湾 38 尺远洋帆船",
-        "description": "蓝湾 38 尺远洋帆船，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "title": "蓝湾 38 尺游钓艇",
+        "description": "蓝湾 38 尺游钓艇。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
-        "title": "Bluebay 38 Offshore Sailboat",
-        "description": "Bluebay 38 Offshore Sailboat, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "title": "Bluebay 38 Sportfishing Yacht",
+        "description": "Bluebay 38 Sportfishing Yacht. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/boats.svg", "assets/media/boats-detail.svg"],
+    "media": [
+      "assets/media/p04.png",
+      "assets/media/boats-detail.png"
+    ],
     "parameters": {
-      "boat_type": "sailboat",
+      "boat_type": "sportfishing",
       "material": "FRP",
       "length": 11.6,
       "power": "hybrid",
@@ -195,7 +219,11 @@
       "moq": 1,
       "unit": "set",
       "lead_time": 36,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 128000,
       "price_max": 147200,
       "currency": "USD"
@@ -210,16 +238,16 @@
     "i18n": {
       "zh": {
         "title": "N7 多功能船用导航仪",
-        "description": "N7 多功能船用导航仪，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "N7 多功能船用导航仪。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "N7 Marine Navigation Display",
-        "description": "N7 Marine Navigation Display, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "N7 Marine Navigation Display. Specifications and export terms can be discussed for your project."
       }
     },
     "media": [
-      "assets/media/equipment.svg",
-      "assets/media/equipment-detail.svg"
+      "assets/media/p05.png",
+      "assets/media/equipment-detail.png"
     ],
     "parameters": {
       "compatible": "all",
@@ -247,7 +275,11 @@
       "moq": 10,
       "unit": "set",
       "lead_time": 38,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 680,
       "price_max": 782,
       "currency": "USD"
@@ -262,16 +294,16 @@
     "i18n": {
       "zh": {
         "title": "M280 船用柴油动力系统",
-        "description": "M280 船用柴油动力系统，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "M280 船用柴油动力系统。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "M280 Marine Diesel Engine",
-        "description": "M280 Marine Diesel Engine, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "M280 Marine Diesel Engine. Specifications and export terms can be discussed for your project."
       }
     },
     "media": [
-      "assets/media/equipment.svg",
-      "assets/media/equipment-detail.svg"
+      "assets/media/p06.png",
+      "assets/media/equipment-detail.png"
     ],
     "parameters": {
       "compatible": "commercial",
@@ -299,7 +331,11 @@
       "moq": 10,
       "unit": "set",
       "lead_time": 40,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 12500,
       "price_max": 14375,
       "currency": "USD"
@@ -314,16 +350,16 @@
     "i18n": {
       "zh": {
         "title": "不锈钢电动锚机 1500W",
-        "description": "不锈钢电动锚机 1500W，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "不锈钢电动锚机 1500W。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "1500W Stainless Electric Windlass",
-        "description": "1500W Stainless Electric Windlass, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "1500W Stainless Electric Windlass. Specifications and export terms can be discussed for your project."
       }
     },
     "media": [
-      "assets/media/equipment.svg",
-      "assets/media/equipment-detail.svg"
+      "assets/media/p07.png",
+      "assets/media/equipment-detail.png"
     ],
     "parameters": {
       "compatible": "yacht",
@@ -351,7 +387,11 @@
       "moq": 10,
       "unit": "set",
       "lead_time": 42,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 850,
       "price_max": 977,
       "currency": "USD"
@@ -366,16 +406,16 @@
     "i18n": {
       "zh": {
         "title": "AIS 船舶自动识别系统",
-        "description": "AIS 船舶自动识别系统，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "AIS 船舶自动识别系统。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "Class B AIS Transponder",
-        "description": "Class B AIS Transponder, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "Class B AIS Transponder. Specifications and export terms can be discussed for your project."
       }
     },
     "media": [
-      "assets/media/equipment.svg",
-      "assets/media/equipment-detail.svg"
+      "assets/media/p08.png",
+      "assets/media/equipment-detail.png"
     ],
     "parameters": {
       "compatible": "all",
@@ -403,7 +443,11 @@
       "moq": 10,
       "unit": "set",
       "lead_time": 44,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 420,
       "price_max": 483,
       "currency": "USD"
@@ -418,14 +462,17 @@
     "i18n": {
       "zh": {
         "title": "蓝盾低 VOC 无锡防污涂料",
-        "description": "蓝盾低 VOC 无锡防污涂料，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "蓝盾低 VOC 无锡防污涂料。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "BlueShield Low-VOC Antifouling",
-        "description": "BlueShield Low-VOC Antifouling, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "BlueShield Low-VOC Antifouling. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/coatings.svg", "assets/media/coatings-detail.svg"],
+    "media": [
+      "assets/media/p09.png",
+      "assets/media/coatings-detail.png"
+    ],
     "parameters": {},
     "certifications": [
       {
@@ -455,7 +502,11 @@
       "moq": 10,
       "unit": "kg",
       "lead_time": 46,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 28,
       "price_max": 32,
       "currency": "USD"
@@ -470,14 +521,17 @@
     "i18n": {
       "zh": {
         "title": "海固环氧防腐底漆",
-        "description": "海固环氧防腐底漆，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "海固环氧防腐底漆。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "SeaGuard Epoxy Marine Primer",
-        "description": "SeaGuard Epoxy Marine Primer, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "SeaGuard Epoxy Marine Primer. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/coatings.svg", "assets/media/coatings-detail.svg"],
+    "media": [
+      "assets/media/p10.png",
+      "assets/media/coatings-detail.png"
+    ],
     "parameters": {},
     "certifications": [
       {
@@ -507,7 +561,11 @@
       "moq": 10,
       "unit": "kg",
       "lead_time": 48,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 18,
       "price_max": 21,
       "currency": "USD"
@@ -522,14 +580,17 @@
     "i18n": {
       "zh": {
         "title": "游艇甲板养护清洁剂",
-        "description": "游艇甲板养护清洁剂，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "游艇甲板养护清洁剂。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "Yacht Deck Care Cleaner",
-        "description": "Yacht Deck Care Cleaner, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "Yacht Deck Care Cleaner. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/coatings.svg", "assets/media/coatings-detail.svg"],
+    "media": [
+      "assets/media/p11.png",
+      "assets/media/coatings-detail.png"
+    ],
     "parameters": {},
     "certifications": [
       {
@@ -559,7 +620,11 @@
       "moq": 10,
       "unit": "kg",
       "lead_time": 50,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 12,
       "price_max": 14,
       "currency": "USD"
@@ -574,14 +639,17 @@
     "i18n": {
       "zh": {
         "title": "防污涂层样例 · 合规待补全",
-        "description": "防污涂层样例 · 合规待补全，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "防污涂层样例 · 合规待补全。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "Antifouling Sample · Compliance Pending",
-        "description": "Antifouling Sample · Compliance Pending, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "Antifouling Sample · Compliance Pending. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/coatings.svg", "assets/media/coatings-detail.svg"],
+    "media": [
+      "assets/media/p12.png",
+      "assets/media/coatings-detail.png"
+    ],
     "parameters": {},
     "certifications": [
       {
@@ -607,7 +675,11 @@
       "moq": 10,
       "unit": "kg",
       "lead_time": 52,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 22,
       "price_max": 25,
       "currency": "USD"
@@ -622,14 +694,17 @@
     "i18n": {
       "zh": {
         "title": "船舶交付前检验服务",
-        "description": "船舶交付前检验服务，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "船舶交付前检验服务。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "Pre-delivery Vessel Inspection",
-        "description": "Pre-delivery Vessel Inspection, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "Pre-delivery Vessel Inspection. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/services.svg", "assets/media/services-detail.svg"],
+    "media": [
+      "assets/media/p13.png",
+      "assets/media/services-detail.png"
+    ],
     "parameters": {
       "service_type": "inspection",
       "region": "asia",
@@ -659,7 +734,11 @@
       "moq": 1,
       "unit": "set",
       "lead_time": 54,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 1800,
       "price_max": 2070,
       "currency": "USD"
@@ -674,14 +753,17 @@
     "i18n": {
       "zh": {
         "title": "游艇跨境运输与清关",
-        "description": "游艇跨境运输与清关，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "游艇跨境运输与清关。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "Cross-border Yacht Shipping",
-        "description": "Cross-border Yacht Shipping, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "Cross-border Yacht Shipping. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/services.svg", "assets/media/services-detail.svg"],
+    "media": [
+      "assets/media/p14.png",
+      "assets/media/services-detail.png"
+    ],
     "parameters": {
       "service_type": "logistics",
       "region": "global",
@@ -711,7 +793,11 @@
       "moq": 1,
       "unit": "set",
       "lead_time": 56,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 2500,
       "price_max": 2875,
       "currency": "USD"
@@ -726,14 +812,17 @@
     "i18n": {
       "zh": {
         "title": "船舶结构设计与技术咨询",
-        "description": "船舶结构设计与技术咨询，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "船舶结构设计与技术咨询。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "Marine Structural Design",
-        "description": "Marine Structural Design, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "Marine Structural Design. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/services.svg", "assets/media/services-detail.svg"],
+    "media": [
+      "assets/media/p15.png",
+      "assets/media/services-detail.png"
+    ],
     "parameters": {
       "service_type": "design",
       "region": "global",
@@ -763,7 +852,11 @@
       "moq": 1,
       "unit": "set",
       "lead_time": 58,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 3500,
       "price_max": 4025,
       "currency": "USD"
@@ -778,14 +871,17 @@
     "i18n": {
       "zh": {
         "title": "欧洲目的港验船与交付",
-        "description": "欧洲目的港验船与交付，面向专业船舶采购的结构化产品样例。可按项目需求提供规格确认与出口贸易方案。此信息为原型演示数据。"
+        "description": "欧洲目的港验船与交付。可按项目需求提供规格确认与出口贸易方案。"
       },
       "en": {
         "title": "European Port Survey & Delivery",
-        "description": "European Port Survey & Delivery, a structured sourcing example for marine buyers. Specifications and export terms can be discussed for your project. All information is demo data."
+        "description": "European Port Survey & Delivery. Specifications and export terms can be discussed for your project."
       }
     },
-    "media": ["assets/media/services.svg", "assets/media/services-detail.svg"],
+    "media": [
+      "assets/media/p16.png",
+      "assets/media/services-detail.png"
+    ],
     "parameters": {
       "service_type": "inspection",
       "region": "europe",
@@ -815,7 +911,11 @@
       "moq": 1,
       "unit": "set",
       "lead_time": 60,
-      "incoterms": ["FOB", "CIF", "EXW"],
+      "incoterms": [
+        "FOB",
+        "CIF",
+        "EXW"
+      ],
       "price_min": 2200,
       "price_max": 2530,
       "currency": "USD"

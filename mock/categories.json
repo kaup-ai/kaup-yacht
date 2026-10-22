@@ -2,12 +2,12 @@
   {
     "id": "boats",
     "name": {
-      "zh": "整艇",
-      "en": "Vessels & yachts"
+      "zh": "船艇",
+      "en": "Boats & yachts"
     },
     "description": {
-      "zh": "从休闲游艇到商用工作艇",
-      "en": "From leisure yachts to working vessels"
+      "zh": "游艇、钓鱼艇与游钓艇",
+      "en": "Yachts, fishing and sportfishing boats"
     },
     "subcategories": [
       {
@@ -18,17 +18,17 @@
         }
       },
       {
-        "id": "workboat",
+        "id": "fishing",
         "name": {
-          "zh": "商用工作艇",
-          "en": "Workboats"
+          "zh": "钓鱼艇",
+          "en": "Center console & fishing boats"
         }
       },
       {
-        "id": "sailboat",
+        "id": "sportfishing",
         "name": {
-          "zh": "帆船",
-          "en": "Sailboats"
+          "zh": "游钓艇",
+          "en": "Sportfishing boats"
         }
       }
     ],
@@ -49,17 +49,17 @@
             }
           },
           {
-            "value": "workboat",
+            "value": "fishing",
             "label": {
-              "zh": "工作艇",
-              "en": "Workboat"
+              "zh": "钓鱼艇",
+              "en": "Fishing boat"
             }
           },
           {
-            "value": "sailboat",
+            "value": "sportfishing",
             "label": {
-              "zh": "帆船",
-              "en": "Sailboat"
+              "zh": "游钓艇",
+              "en": "Sportfishing boat"
             }
           }
         ],
