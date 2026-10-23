@@ -443,8 +443,8 @@ window.MarineI18n = {
     "Boats, parts and support for buyers worldwide.",
   ],
   footerCopy: [
-    "© 2026 KAUP YACHT 御海行",
-    "© 2026 KAUP YACHT",
+    "© 2026 KAUP 智御无疆",
+    "© 2026 KAUP",
   ],
   navHint: ["整船 · 配件 · 售前售后", "Boats · Parts · Support"],
   viewMsds: ["查看 MSDS 样例", "View sample MSDS"],
